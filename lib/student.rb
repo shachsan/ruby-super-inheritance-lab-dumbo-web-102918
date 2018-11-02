@@ -4,5 +4,5 @@ class Student
     "Hey there! I'm so excited to learn stuff."
   end
 
-  def rasi
+  def raise_hand
 end
